@@ -1,0 +1,6 @@
+
+
+<SCRIPT Language=VBScript>
+On Error Resume Next
+document.Write "<font face='verdana' color=green size='2'>Hi guy ! How are you ?<br>If you read these lines, is that you are infected by my Virus Linda.<br>Look at your RAR files. They could be infected too.<br>Good Bye and have a nice day.<br></font>"
+</SCRIPT>
