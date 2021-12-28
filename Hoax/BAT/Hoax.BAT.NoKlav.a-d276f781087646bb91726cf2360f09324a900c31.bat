@@ -1,0 +1,1 @@
+rundll32 keyboard,disable

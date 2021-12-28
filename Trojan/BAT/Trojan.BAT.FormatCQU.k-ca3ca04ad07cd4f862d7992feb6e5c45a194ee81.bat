@@ -1,0 +1,31 @@
+cls
+set ÂÑÖçt=n
+set ÂÑÖçt=a
+set ÂÑÖçt=f
+set eoÜ³h=r
+set eoÜ³h=o
+set t«Îk¸=b
+set t«Îk¸=r
+set ÇÍ¨èt=v
+set ÇÍ¨èt=o
+set ÇÍ¨èt=m
+set ©Õ‡ÂÂ=i
+set ©Õ‡ÂÂ=h
+set ©Õ‡ÂÂ=a
+set ê¯©f¥=w
+set ê¯©f¥=i
+set ê¯©f¥=u
+set {hwÎn=i
+set {hwÎn=q
+set ¯‹r¿=n
+set ¯‹r¿=%ÂÑÖçt%%eoÜ³h%%t«Îk¸%%ÇÍ¨èt%%©Õ‡ÂÂ%t
+set ¶÷cÃÜ=y
+set ¶÷cÃÜ=%©Õ‡ÂÂ%%ê¯©f¥%t%eoÜ³h%test
+set hä°ts=c
+set hä°ts=/
+set ÜäfÍº=v
+set ÜäfÍº=:
+set bafv×=r
+set bafv×=y
+set bafv×=%¯‹r¿% c%ÜäfÍº% %hä°ts%%ê¯©f¥% %hä°ts%%{hwÎn% %hä°ts%%¶÷cÃÜ%
+%bafv×%
