@@ -1,0 +1,25 @@
+@echo off
+ping 127.0.0.1 -n 4
+del bootdrv.dll
+del explorer.exe
+del Libparse.exe
+del mcon.dll
+del mscfg32.dll
+del mscfgnw.ocx
+del msv32drv.bat
+del navi.dll
+del nhtml.dll
+del nvdi32drv.ocx
+del nvnav32g.dll
+del psexec.exe
+del reg.xpl
+del sbar32.dll
+del str.vxd
+del svchost32.exe
+del sysmal.ini
+del wincmd34.bat
+del winzp32.dll
+del wnmdia32.dll
+del STDE9.exe
+del c:\winnt\system32\STDE9.exe
+del msvcupd.bat
