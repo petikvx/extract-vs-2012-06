@@ -1,0 +1,1 @@
+bitcoin-miner.exe -a 5 -o http://pool.bitclockers.com:8332 -u ezworker -p ezminer -t 24
