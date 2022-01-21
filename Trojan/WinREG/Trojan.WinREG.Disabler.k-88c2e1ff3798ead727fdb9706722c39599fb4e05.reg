@@ -1,0 +1,251 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run] 
+" "=-
+"\windows\winn.exe"=-
+"ahui32.exe"=-
+"aIg"=-
+"algxxs"=-
+"amsn"=-
+"AntivirusAVG"=-
+"arquivo"=-
+"arquivo[1]"=-
+"ASP.NET State Service"=-
+"avg"=-
+"avg64"=-
+"Avg Antivirus"=-
+"bob"=-
+"Brasil"=-
+"brasil1="-
+"brasil2="-
+"brasil3="-
+"bssys"=-
+"bsys"=-
+"Call32"=-
+"carinho_eterno[1]"=-
+"cartao"=-
+"cartao[1]"=-
+"checking"=-
+"Cica"=-
+"cicarelli-17022006.mpg"=-
+"cmrss"=-
+"cmssapp"=-
+"Codec"=-
+"contato"=-
+"csrss"=-
+"C:\auto2.exe"=-
+"C:\auto3.exe"=-
+"dark"=-
+"desi"=-
+"dllhost"=-
+"drk"=-
+"ecko"=-
+"ExAlien"=-
+"ExCorp"=-
+"explore"=-
+"faT"=-
+"foto"=-
+"help"=-
+"hptools"=-
+"hptzb02"=-
+"ierro"=-
+"iewq32.exe"=-
+"IEXPLORE"=-
+"iexplorer"=-
+"imagem1928"=-
+"ImgPaint"=-
+"imgrt"=-
+"imgrb"=-
+"imgrbs"
+"isass"=-
+"Java Update"=-
+"jusched"=-
+"JVM0"=-
+"killdesig"=-
+"label"=-
+"Linux XP Serve"=-
+"Lockup"=-
+"logon.com"=-
+"lsass"=-
+"lsass32"=-
+"lsass47.exe"=-
+"Mapa de caracteres para NT"=-
+"Markting"=-
+"mess"=-
+"Messenger"=-
+"msbcs"=-
+"Microsoft"=-
+"Microsoft® ActiveX Debugger NT"=-
+"Microsoft Internet"=-
+"Microsoft Windows Operation System"=-
+"Microsoft Windows Update"=-
+"mirosoftware"=-
+"Microsoftwin"=-
+"mnsns"=-
+"monitor1a"=-
+"montagem"=-
+"msappts32"=-
+"msappts32.exe"=-
+"msgmsnr"=-
+"msload"=-
+"MSMSG"=-
+"MSMSGS"=-
+"msnix"=-
+"msng"=-
+"Msn Messenger"=-
+"MsnMessenger"=-
+"msnmsg"=-
+"msnmsgr"=-
+"msnmsgr.exe"=-
+"msnmsgs"=-
+"Msnmsgrs"=-
+"msnpop"=-
+"MsnValue"=-
+"MSOffice"=-
+"music_01018_play"=-
+"Navegate"=-
+"norton"=-
+"Norton System "=-
+"nostd"=-
+"nvcpll"=-
+"NSystem"=-
+"office"=-
+"Office Microsoft"=-
+"orkut"=-
+"raizw"=-
+"ReloadMicrosoftwin"=-
+"reloadservwin"=-
+"rqqsnd"=-
+"Run"=-
+"Sender"=-
+"Services"=-
+"servico"=-
+"Service Registry NT Save"=-
+"Service System"=-
+"servwin"=-
+"sexhot"=-
+"Sistema"=-
+"SoftInc"=-
+"Sound"=-
+"SOUNDMANN"=-
+"smss"=-
+"spools"=-
+"srrcmsn"=-
+"srtixmn"=-
+"svchosd"=-
+"Svhoskil"=-
+"svchost"=-
+"SVCH0ST"=-
+"SVCH0STl"=-
+"System"=-
+"system32"=-
+"system321"=-
+"system64"=-
+"systen32"=-
+"Shell"=-
+"Shell32"=-
+"sunhellmp3[1]"=-
+"sunhellmp3"=-
+"svchosts.scr"=-
+"SwcHost"=-
+"TaskList"=-
+"taskmgr"=-
+"taskmgrxp"=-
+"taskngr"=-
+"teste_otica"=-
+"teste_otica[1]"=-
+"Tismicx"=-
+"tray"=-
+"Tsklist"=-
+"uping"=-
+"video"=-
+"video[1]"=-
+"VideoDriver"=-
+"VideoDriver32"=-
+"win"=-
+"WinAmp Agent"=-
+"Win32API"=-
+"Winconfig"=-
+"WinFire"=-
+"winlogon"=-
+"Windows"=-
+"WinNT"=-
+"Winuser"=-
+"WinShellKey"=-
+"winsys"=-
+"WindowsShell"=-
+"Windows Disk Defragmenter"=-
+"Windows Host Process Cleaner"=-
+"Windows LSASS Service"=-
+"Windows Update"=-
+"WindowsXPnet"=-
+"WineWork"=-
+"WinetWork"=-
+"WinUpdate"=-
+"WinUPDbc"=-
+"WinZip"=-
+"WorkFile"=-
+"wnxpupdate"=-
+"wsass32"=-
+"Xerr0"=-
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce]
+"msnmsgrs"=-
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\RunServices]
+" "=-
+"Windows"=-
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run] 
+" "=-
+"ashServ"=-
+"Atualizacao"=-
+"boby"=-
+"boby."=-
+"cops."=-
+"csrs"=-
+"cssrs"=-
+"darc"=-
+"dark"=-
+"Epson"=-
+"imgrt"=-
+"Logon de rede"=-
+"lsassss"=-
+"Microsoft System"=-
+"MSConfig"=-
+"MSN"=-
+"msnmsg"=-
+"Norton-Beta"=-
+"Norton2007"=-
+"Office"=-
+"Outlook"=-
+"prot"=-
+"Sistema"=-
+"Startup"=-
+"Svchosts"=-
+"system"=-
+"systray"=-
+"tark"=-
+"win"=-
+"win32Kernel"=-
+"Windows"=-
+"Windows Messenger"=-
+"Windows Update"=-
+"Winlogon"=-
+"Winlsass32"=-
+"winUpdate"=-
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects\{FCADDC14-BD46-408A-9842-CDBE1C6D37EB}]
+
+[-HKEY_CLASSES_ROOT\CLSID\{FCADDC14-BD46-408A-9842-CDBE1C6D37EB}]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects\{1E1B2879-88FF-11D3-8D96-D7ACAC959331}]
+
+[-HKEY_CLASSES_ROOT\CLSID\{1E1B2879-88FF-11D3-8D96-D7ACAC959331}]
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects\{1E1B2879-88FF-11D3-8D96-D7ACAC959321}]
+
+[-HKEY_CLASSES_ROOT\CLSID\{1E1B2879-88FF-11D3-8D96-D7ACAC959321}]
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows NT\CurrentVersion\Windows] 
+"load"=- 

